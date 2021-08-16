@@ -1,0 +1,7 @@
+{
+    "name": "FPL Points",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

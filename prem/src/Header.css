@@ -1,0 +1,22 @@
+.header>img{
+    height:70px;
+    margin-left: 15px;
+}
+
+.header{
+    background-color: rgb(56, 2, 56);
+    background-image: url(./images/bg.svg);
+    background-position: -110px 60px;
+    display:flex;
+    position: fixed;
+    width:100%;
+    top:0;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    
+}
+
+.header>h4{
+    margin-right: 30px;
+}

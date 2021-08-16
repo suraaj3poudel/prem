@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.nameofyourapp",
+  "appName": "FPL Points",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
